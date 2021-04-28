@@ -54,9 +54,9 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
-            sudo docker pull <имя-пользователя>/<имя-репозитория>
+            sudo docker pull docker581/yamdb_final
             sudo docker stop $(sudo docker ps -a -q)
-            sudo docker run --rm -d -p 5000:5000 <имя-пользователя>/<имя-репозитория>
+            sudo docker run --rm -d -p 5000:5000 docker581/yamdb_final
 
   send_message:
     runs-on: ubuntu-latest
