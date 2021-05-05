@@ -7,7 +7,7 @@
 ![status](https://github.com/docker581/yamdb_final/actions/workflows/main.yml/badge.svg)
 
 ## Ссылка на развернутый сервер
-http://84.252.142.38/api/v1/
+http://84.201.154.34/api/v1/
 
 ## Стек технологий
 - Python 3.8.5
