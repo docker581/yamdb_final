@@ -6,9 +6,6 @@
 ## Статус
 ![status](https://github.com/docker581/yamdb_final/actions/workflows/main.yml/badge.svg)
 
-## Ссылка на развернутый сервер
-http://84.201.140.148/api/v1/
-
 ## Стек технологий
 - Python 3.8.5
 - Django 3.0.5
