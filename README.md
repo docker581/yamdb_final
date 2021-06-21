@@ -3,9 +3,6 @@
 ## Описание проекта
 Реализация Continuous Integration проекта YaMDB
 
-## Статус
-![status](https://github.com/docker581/yamdb_final/actions/workflows/main.yml/badge.svg)
-
 ## Стек технологий
 - Python 3.8.5
 - Django 3.0.5
